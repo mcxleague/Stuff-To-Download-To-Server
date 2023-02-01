@@ -1,0 +1,25 @@
+.icons-menu a span { transition-duration: 250ms }
+.icons-menu a:hover span { filter: brightness(.85) }
+.cid-sQGMmk9gs9 .soc-item:hover > a > span { color: white }
+.cid-sQGMmk9gs9 .soc-item > a { margin-top: 2px }
+/* ^ It wasn't centered.. */
+.cid-sQGMmk9gs9 .soc-item:hover { background: #057ae2 }
+.cid-sQGMmk9gs9 .soc-item,.cid-sQGMmk9gs9 .soc-item > a > span {
+    transition-duration: 450ms;
+}
+.crisp-client .cc-kv6t .cc-1xry .cc-unoo .cc-7doi {
+    transition: filter 250ms ease!important;
+}
+.crisp-client:hover .cc-kv6t .cc-1xry .cc-unoo .cc-7doi {
+    filter: brightness(.8)
+}
+img {
+	-webkit-user-drag: none; -khtml-user-drag: none;
+	-moz-user-drag: none; -o-user-drag: none; user-drag: none;
+}
+img::selection { background:transparent }
+/* ^ It looks better in CTRL + A */
+.cid-sIdyjE5as1 .card-img .img4,
+.cid-sIdyjE5as1 .card-img .img3,
+.cid-sIdyjE5as1 .card-img .img1,
+.cid-sIdyjE5as1 .card-img .img6 { color: #057ae2!important }
